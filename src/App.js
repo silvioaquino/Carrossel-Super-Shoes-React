@@ -45,6 +45,7 @@ function App() {
           );
         })} 
       </div> 
+      <div></div>
       <div className='buttons'>
         <button onClick={handleLeftClick}>
           <img src='/static/images/216151_right_chevron_icon.png' alt='Scroll Left'/>
